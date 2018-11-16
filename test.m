@@ -1,0 +1,3 @@
+FILENAME = 'data/gps181007g.001.hdf5';
+
+get_tec(FILENAME, 20, 0, 40.735657, -74.172363)
